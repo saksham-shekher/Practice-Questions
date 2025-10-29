@@ -134,6 +134,14 @@ Each solution is designed to help junior developers understand:
 
 ## 🤝 Contributing
 
+We welcome contributions! Whether you want to add new problems, implement solutions in other languages, fix bugs, or improve documentation - all contributions are appreciated.
+
+Please read our **[Contributing Guidelines](CONTRIBUTING.md)** to get started. It includes:
+- How to contribute code
+- Style guides for Python, Java, and C
+- Pull request process
+- Issue reporting guidelines
+
 Feel free to add more practice questions and solutions to help the community!
 
 ## 📚 Learning Resources
